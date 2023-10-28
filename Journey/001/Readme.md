@@ -1,52 +1,58 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
 
-## Introduction
+# Chapter 1
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Cloud Computing - Cloud Computing adalah pengiriman sesuai permintaan untuk daya komputasi, basis data, penyimpanan, aplikasi, dan sumber daya IT lain melalui internet dengan harga sesuai permintaan.
 
-## Prerequisite
+## Model Layanan Cloud - 
+#### --IaaS (Infrastructure as a Service)--
+  Layanan dalam kategori ini adalah blok bangunan dasar untuk IT cloud dan biasanya menyediakan akses ke fitur jaringan, komputer (virtual atau pada perangkat keras khusus), dan ruang penyimpanan data.
+#### --PaaS (Platform as a Service)--
+  Layanan dalam kategori ini menghilangkan kebutuhan organisasi untuk mengelola infrastruktur dasarnya (biasanya perangkat keras dan sistem operasi), serta memungkinkan anda untuk fokus pada deployment dan pengelolaan aplikasi. Contoh PaaS yaitu github.
+#### --SaaS (Software as a Service)--
+  Layanan dalam kategori ini memberikan kita produk lengkap yang dijalankan dan dikelola oleh penyedia layanan. Dalam kebanyakan kasus, software as a Service mengacu pada aplikasi pengguna akhir/end user.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+## Manfaat dan Kelebihan Cloud Computing - 
+- 1#---Perdagangkan pengeluaran modal untuk biaya variabel, 
+- 2#---Mendapatkan manfaat dari skala ekonomi masif, 
+- 3#---Tidak perlu menebak-nebak kapasitas, 
+- 4#---Meningkatkan kecepatan dan ketangkasan, 
+- 5#---Berhenti menghabiskan uang untuk menjalankan dan memelihara pusat data, 
+- 6#---Menjangkau dunia global dalam hitungan menit.
 
-## Use Case
+## Model Deployment Cloud Computing - 
+#### --Cloud--
+Aplikasi berbasis cloud sepenuhnya diterapkan di cloud dan semua bagian aplikasi yang berjalan di cloud. Aplikasi di cloud telah dibuat di cloud atau telah dimigrasikan dari infrastruktur yang ada untuk mendapat manfaat cloud computing. Contoh AWS
+#### --Hybird--
+Cara menghubungkan infrastruktur dan aplikasi antara sumber daya berbasis cloud dan sumber daya yang ada yang terletak di cloud. Contoh AWS CloudFront
+#### --On-premise--
+Men-deploy sumber daya on-premise, dengan menggunakan alat manajemen sumber daya dan virtualisasi, bisa juga disebut cloud private. Contoh Bank besar yang menjalankan data center lokal untuk mengelola semua data sensitif dan aplikasi perbankan mereka.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## AWS
+- AWS adalah platform cloud yang aman yang menawarkan serangkaian produk global berbasis cloud yang luas.
+- AWS menyediakan akses sesuai permintaan untuk komputasi, penyimpanan, jaringan, basis data, dan sumber daya IT lainnya dan alat manajemen.
+- AWS menawarkan fleksibilitas
+- Pay as you go
 
-## Cloud Research
+## AWS Infrastructure
+#### --Region--
+-  Region adalah wilayah fisik geografis yang terdiri dari satu atau beberapa Availability Zones. Setiap region biasanya memiliki beberapa pusat data (data center).
+-  AWS memiliki banyak region di seluruh dunia yang tersebar di Amerika, Eropa, Asia, dan wilayah lainnya.
+-  Contoh: Region Timur Laut (North Virginia), Asia Pacific (Jakarta), etc.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+#### Availability Zones
+- Availability Zones adalah pusat data fisik yang terletak dalam satu region. Mereka dirancang untuk memberikan tingkat ketersediaan dan ketahanan yang tinggi.
+- Setiap AZ adalah entitas terpisah dengan pasokan daya dan pendingin yang independen.
+- Region Jakarta memiliki 3 availability zones.
 
-## Try yourself
+#### Point of Presence (POP) & Edge
+- POP dan Edge locations adalah fasilitas fisik yang tersebar di seluruh dunia yang digunakan untuk mendistribusikan konten dan layanan AWS lebih dekat ke pengguna akhir.
+- Mereka adalah bagian dari jaringan global CDN (Content Delivery Network) yang disebut Amazon CloudFront.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+#### Data Center
+- Data center adalah fasilitas fisik tempat perangkat keras server, perangkat jaringan, dan infrastruktur lainnya disimpan dan dioperasikan.
+- Data center adalah komponen utama dalam menyediakan layanan cloud seperti yang ditawarkan oleh AWS.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+## Module 1
+![tugas 1 sertifikat](https://github.com/yayangaufaard/100-days-of-cloud/assets/140808148/f2f4a94d-4987-4ca9-b9ec-02b73a53578c)
