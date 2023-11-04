@@ -14,16 +14,21 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Yayang's Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ Introduce myself] <br>
+Hello CAKRAM people!!! Let me introduce myself, My name is Yayang Aufaa Rohmad Daifulloh, you can call me Yayang. Now i'm 16 y.o. I'm study in Smk Negeri 1 Nglegok. In here i take Computer Program Engginering. Now I'm in grade XI to do this challenge. That's all little story of me, if you wan't to know more about me, you can click link bellow
 
-[✍️ Tell us why you started this challenge]
+<br>
+[✍️ Why am i started this challenge?]
+<br>
+First of all, why i am started this challenge is simple 
+
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ My Linkedin] (https://www.linkedin.com/in/yayang-aufaa-3036b628a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [✍️ My Instagram](https://www.linkedin.com/in/username)
 
 ## Stepping out the door
 
