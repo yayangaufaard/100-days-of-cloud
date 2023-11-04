@@ -27,7 +27,7 @@ First of all, why i am started this challenge is simple
 
 [✍️ Tell us where you want to be at the end of the challenge]
 
-- [✍️ My Linkedin] (https://www.linkedin.com/in/yayang-aufaa-3036b628a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [✍️ My Linkedin](https://www.linkedin.com/in/yayang-aufaa-3036b628a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [✍️ My Instagram](https://www.linkedin.com/in/username)
 
 ## Stepping out the door
